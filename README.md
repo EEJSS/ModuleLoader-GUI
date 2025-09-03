@@ -7,7 +7,7 @@ Prerequisites:
 - Ability to connect the console to internet
 - Xbox 360 SDK installed on your PC
 - USB that holds your DashLaunch config
-- XDRPC.xex and Proto.xex
+- xbdm.xex, XDRPC.xex, and Proto.xex
 - ModuleLoader GUI
 
 
@@ -35,4 +35,4 @@ Instructions:
 - Connect to Xbox Live.
 
 
-If you have any further questions regarding SDK or DashLaunch, those will not be answered. You can find plenty of guides online on the basics of setting those two up.
+If you have any further questions regarding SDK, DashLaunch, or xex files.. those will not be answered. You can find plenty of guides online for acquiring those files and setting them up.
