@@ -1,8 +1,5 @@
-# ModuleLoader GUI
-A GUI version of ClementDreptin's ModuleLoader. It allows for loading & unloading modules via XDRPC.
-The main reason I made this was because people were having difficulty with using Proto on WiFi with their BadUpdate consoles.
+How to load Proto on WiFi with BadUpdate
 
-# How to load Proto on WiFi with BadUpdate
 Prerequisites:
 - Ability to connect the console to internet
 - Xbox 360 SDK installed on your PC
