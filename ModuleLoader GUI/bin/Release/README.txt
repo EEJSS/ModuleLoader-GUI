@@ -15,7 +15,7 @@ The main reason I made this was because people were having difficulty with using
 - Load your DashLaunch launch.ini file in a text editor on your PC and look for the plugins list (plugin1=, plugin2=, etc).
 - Remove any stealth server from your Dashlaunch plugins list.
 - Make sure xbdm.xex is plugin1, XDRPC.xex plugin2. Also that "liveblock=true" and "livestrong=true".
-    - Example:
+    - Example: 
       - plugin1 = Usb:\xbdm.xex
       - plugin2 = Usb:\XDRPC.xex
 - Put Proto.xex on your USB.
